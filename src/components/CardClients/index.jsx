@@ -24,9 +24,9 @@ export default function CardClients() {
       id: 3,
       photo: jennie,
       name: "Jennie F.",
-      position: "Bussines Owner",
+      position: "Business Owner",
       paragraph:
-        "Incredible end result! Our sales increased over 400% when we worked with Sunniside. Higly recommended!",
+        "Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!",
     },
   ];
 

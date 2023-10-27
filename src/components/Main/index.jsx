@@ -109,7 +109,7 @@ export default function Main() {
               </h2>
               <p className="font-barlow text-dark-blue font-semibold opacity-90 max-xl:text-sm max-lg:text-xs max-md:text-sm max-xs:leading-6 max-xs:font-bold">
                 Increase your credibility by getting the most stunning,
-                high-quality photos that improve your bussiness image.
+                high-quality photos that improve your business image.
               </p>
             </div>
           </div>

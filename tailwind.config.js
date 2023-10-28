@@ -19,6 +19,7 @@ module.exports = {
         "grayish-blue": 'hsl(210, 4%, 67%)',
         "dark-yellow": "#fad4004d",
         "light-green": "#90d4c6",
+        "background-clients": "rgb(255, 251, 248)"
       },
       backgroundImage: {
         'background-header': "url('./assets/img/desktop/image-header.jpg')",

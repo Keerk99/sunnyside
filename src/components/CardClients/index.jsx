@@ -31,7 +31,7 @@ export default function CardClients() {
   ];
 
   return (
-    <div className="flex flex-col justify-center items-center px-36 py-40 gap-16 max-xl:px-24 max-xl:py-32 max-lg:px-16 max-lg:py-24 max-md:px-12 max-md:py-16 max-xs:px-4">
+    <div className="flex flex-col bg-background-clients justify-center items-center px-36 py-40 gap-16 max-xl:px-24 max-xl:py-32 max-lg:px-16 max-lg:py-24 max-md:px-12 max-md:py-16 max-xs:px-4">
       <h2 className="font-fraunces text-xl font-black text-dark-grayish-blue tracking-more-wide leading-none max-md:text-center max-md:text-lg max-xs:text-[.9rem]">
         CLIENT TESTIMONIALS
       </h2>

@@ -14,8 +14,8 @@ export default function Main() {
     <main id="main" className="flex-grow">
       <section>
         <div className="grid grid-cols-2 max-md:grid-cols-1">
-          <div className="flex justify-center items-center max-md:order-last">
-            <div className="flex flex-col w-8/12 gap-10 max-xl:gap-8 max-lg:gap-6 max-md:py-14 max-md:px-12 max-md:w-full max-xs:px-4 max-md:items-center">
+          <div className="bg-background-clients flex justify-center items-center max-md:order-last">
+            <div className="flex flex-col w-8/12 gap-10 z-20 max-xl:gap-8 max-lg:gap-6 max-md:py-14 max-md:px-12 max-md:w-full max-xs:px-4 max-md:items-center">
               <h2 className="text-2.7 font-fraunces font-black text-very-dark-desaturated-blue max-xl:text-3xl max-lg:text-2xl max-md:text-center max-md:text-3xl">
                 Transform your brand
               </h2>
@@ -24,7 +24,7 @@ export default function Main() {
                 brands grow fast. Engage your clients through compelling visuals
                 that do most of the marketing for you.
               </p>
-              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-dark-yellow after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-yellow max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px] max-md:text-[0.72rem] max-md:text-center max-md:w-auto max-md:whitespace-nowrap">
+              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer whitespace-nowrap after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-dark-yellow after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-yellow max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px] max-md:text-[0.72rem] max-md:text-center max-md:w-auto">
                 LEARN MORE
               </span>
             </div>
@@ -41,8 +41,8 @@ export default function Main() {
           />
         </div>
         <div className="grid grid-cols-2 max-md:grid-cols-1">
-          <div className="flex justify-center items-center order-last">
-            <div className="flex flex-col w-8/12 gap-10 max-xl:gap-8 max-lg:gap-6 max-md:py-14 max-md:px-12 max-md:w-full max-xs:px-4 max-md:items-center">
+          <div className="bg-background-clients flex justify-center items-center order-last">
+            <div className="flex flex-col w-8/12 gap-10 z-20 max-xl:gap-8 max-lg:gap-6 max-md:py-14 max-md:px-12 max-md:w-full max-xs:px-4 max-md:items-center">
               <h2 className="text-2.7 font-fraunces font-black text-very-dark-desaturated-blue max-xl:text-3xl max-lg:text-2xl max-md:text-center max-md:text-3xl">
                 Stand out to the right audience
               </h2>
@@ -51,7 +51,7 @@ export default function Main() {
                 photographers, videographers, and copywrites, we'll build and
                 extend your brand in digital places.
               </p>
-              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-red-200 after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-red-400 max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px] max-md:text-[0.72rem] max-md:text-center max-md:w-auto max-md:whitespace-nowrap">
+              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer whitespace-nowrap after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-red-200 after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-red-400 max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px] max-md:text-[0.72rem] max-md:text-center max-md:w-auto">
                 LEARN MORE
               </span>
             </div>

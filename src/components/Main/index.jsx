@@ -24,7 +24,7 @@ export default function Main() {
                 brands grow fast. Engage your clients through compelling visuals
                 that do most of the marketing for you.
               </p>
-              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-dark-yellow after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-yellow max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px] max-md:self-center max-md:text-[0.72rem] max-md:text-center max-md:w-auto">
+              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-dark-yellow after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-yellow max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px]  max-md:text-[0.72rem] max-md:text-center max-md:w-auto">
                 LEARN MORE
               </span>
             </div>
@@ -51,7 +51,7 @@ export default function Main() {
                 photographers, videographers, and copywrites, we'll build and
                 extend your brand in digital places.
               </p>
-              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-red-200 after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-red-400 max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px] max-md:self-center max-md:text-[0.72rem] max-md:text-center max-md:w-auto">
+              <span className="relative w-fit px-2 font-fraunces font-black text-very-dark-desaturated-blue cursor-pointer after:content-[''] after:w-full after:absolute after:border-b-[10px] after:border-solid after:border-red-200 after:left-0 after:bottom-0 after:rounded-2xl after:-z-10 after:transition-colors after:ease-in after:duration-500 after:hover:border-red-400 max-xl:text-sm max-xl:px-1 max-lg:text-xs max-lg:after:border-b-[7px]  max-md:text-[0.72rem] max-md:text-center max-md:w-auto">
                 LEARN MORE
               </span>
             </div>
